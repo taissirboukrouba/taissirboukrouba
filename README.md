@@ -1,4 +1,3 @@
-<img width="100%" src="https://raw.githubusercontent.com/pmbechard/pmbechard/main/github_banner.png" alt="Peyton Bechard">
 
 <br>
 <h2 align="center">Introduction</h2>
@@ -6,15 +5,16 @@
 My name is Peyton Bechard and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
 
 
+
+<br>
+
+
 <div align="center">
-   <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=taissirboukrouba&theme=radical&hide_border=false" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=taissirboukrouba&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" style="margin-right: 20px;" />
+  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=taissirboukrouba&theme=blue-green&hide_border=true" />
 </div>
 
-https://github-trophies.vercel.app/?username=taissirboukrouba&theme=darkhub&no-frame=false&no-bg=false&margin-w=4
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taissirboukrouba&theme=blue-green">
-</div>
+
 <br>
 
 - 🔭 I’m currently working on expanding my knowledge of full-stack web development.
@@ -28,14 +28,29 @@ https://github-trophies.vercel.app/?username=taissirboukrouba&theme=darkhub&no-f
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </div>
+
+<br>
+
 
 <div align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=taissirboukrouba&show_icons=true&theme=radical" style="margin-right: 20px;" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taissirboukrouba&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taissirboukrouba&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-
 
 
   
@@ -52,28 +67,15 @@ https://github-trophies.vercel.app/?username=taissirboukrouba&theme=darkhub&no-f
 - Another hangman game, but made with Python and Tkinter with adjustable difficulty and word lengths: [Repo](https://github.com/pmbechard/Tk-Hangman)
 - An iOS calculator replica made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/iOS-Calculator-Replica/) [Repo](https://github.com/pmbechard/iOS-Calculator-Replica)
 - One of my first big projects; a GUI that streamlines the report card-making process for Rosedale GHS Classroom Teachers. It uses Python with several libraries including Kivy and BeautifulSoup4: [Repo](https://github.com/pmbechard/Rosedale-GHS-Reporting-System)
+<br>
 
+<div align="center">
+  <img class="img" src="https://github-trophies.vercel.app/?username=taissirboukrouba&theme=onestar&no-frame=true&no-bg=false&margin-w=4" />
+</div>
 
 <br>
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/peyton-bechard/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/peytonbechard/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/peytonbechard/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-# 💻Tech Stack
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=taissirboukrouba&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taissirboukrouba&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
