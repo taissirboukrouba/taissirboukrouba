@@ -5,12 +5,12 @@
 <br>
 <h2 align="center">Introduction</h2>
 
-My name is Peyton Bechard and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
+Hello There ! I'm Taissir Boukrouba , a Data Science master’s graduate from the University of Hertfordshire, holding a BSc in Computer Systems. With demonstrated skills in data modeling, data visualization, and data wrangling, I am currently seeking work experience in data science. Feel free to explore my work and reach out if you’d like to discuss potential opportunities or collaborations.
+<br>
 
-- 🔭 I’m currently working on expanding my knowledge of Nautral Language Processing (NLP).
-- 🌱 I’m currently learning advanced Javascript leading into more about Node.js and then React.
-- 💬 Ask me about my experience teaching CS in China and working as a tour manager in North Korea!
-- ⚡ Fun fact: I'm also a synthesizer enthusiast and try to make at least one short track every day.
+<div align="center">
+<img src="https://img.shields.io/badge/portfolio-message?style=for-the-badge&logoColor=white&label=Click%20Here&link=test.com">
+</div>
 
 
 <br>
