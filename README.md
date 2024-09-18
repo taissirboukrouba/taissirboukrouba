@@ -2,7 +2,6 @@
   <img src="https://en.bloggif.com/tmp/b380e67e79831206d27477e3c2c91a6b/text.gif?1726675760" alt="Text GIF" />
 </p>
 
-<br>
 <h2 align="center">Introduction</h2>
 
 Hello There ! I'm Taissir Boukrouba , a Data Science master’s graduate from the University of Hertfordshire, holding a BSc in Computer Systems. With demonstrated skills in data modeling, data visualization, and data wrangling, I am currently seeking work experience in data science. Feel free to explore my work and reach out if you’d like to discuss potential opportunities or collaborations.
