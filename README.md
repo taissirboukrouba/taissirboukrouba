@@ -78,18 +78,24 @@ I have strong skills in data analysis, statistical modeling, and data visualizat
 
   
 <br>
-<h2 align="center">Check out some of my recent projects:</h2>
+<h2 align="center">Projects Stack </h2>
 
-- An online library system made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Library/) [Repo](https://github.com/pmbechard/Library)
-- A sample sign up page made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Sign-Up-Page/) [Repo](https://github.com/pmbechard/Sign-Up-Page)
-- A sample admin dashboard page made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Admin-Dashboard/) [Repo](https://github.com/pmbechard/Admin-Dashboard)
-- A GUI that displays a daily aphorism from Kim Jong-un: [Repo](https://github.com/pmbechard/KimJongUnAphorisms)
-- A site for making pixel art made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Pixton/) [Repo](https://github.com/pmbechard/Pixton)
-- A list of solutions to LeetCode and CodeWars challenges in Python: [Repo](https://github.com/pmbechard/CodingChallenges)
-- A site a made for a student of mine to practice his English vocabulary made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/sampsons-vocabulary/) [Repo](https://github.com/pmbechard/sampsons-vocabulary)
-- Another hangman game, but made with Python and Tkinter with adjustable difficulty and word lengths: [Repo](https://github.com/pmbechard/Tk-Hangman)
-- An iOS calculator replica made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/iOS-Calculator-Replica/) [Repo](https://github.com/pmbechard/iOS-Calculator-Replica)
-- One of my first big projects; a GUI that streamlines the report card-making process for Rosedale GHS Classroom Teachers. It uses Python with several libraries including Kivy and BeautifulSoup4: [Repo](https://github.com/pmbechard/Rosedale-GHS-Reporting-System)
+<h3> Academic Projects </h3>
+<br>
+
+- **Nebta :** Plant Classification App Using Flutter and Vision Transformers (ViT)
+- **Physics Variable Extractor :** Structured information retrieval with LLMs for physics academic research papers 
+
+<h3> Corporate Projects </h3>
+<br>
+
+- **RiskIntel:** An Interactive dashboard that displays multiple financial KPIs
+- **EasyInvoice:** An App that automates PDF invoice reading into text and tables using
+Deep Learning Models
+
+
+> **Note:** There are other ongoing projects to be added to the portfolio ! stay tuned ! 
+
 <br>
 
 <div align="center">
