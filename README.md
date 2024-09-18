@@ -8,7 +8,9 @@ Hello There ! I'm Taissir Boukrouba , a Data Science master’s graduate from th
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/portfolio-message?style=for-the-badge&logoColor=white&label=Click%20Here&link=test.com">
+<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-message?style=for-the-badge&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/taissir-boukrouba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:taissirboukrouba@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 
@@ -28,7 +30,12 @@ Hello There ! I'm Taissir Boukrouba , a Data Science master’s graduate from th
 
 <br>
 <h2 align="center">Tech Skills Stack</h2>
+I have strong skills in data analysis, statistical modeling, and data visualization. My expertise includes data wrangling, machine learning, and creating actionable insights and making flutter apps. My skill set can be summarised in the following tools and libraries : 
 
+
+<br>
+
+<br>
 
 
 <div align="center">
@@ -90,8 +97,4 @@ Hello There ! I'm Taissir Boukrouba , a Data Science master’s graduate from th
 </div>
 
 <br>
-<h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/taissir-boukrouba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:taissirboukrouba@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+
