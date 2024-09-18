@@ -4,7 +4,10 @@
 
 <h2 align="center">Introduction</h2>
 
+<p align="center">
 Hello There ! I'm Taissir Boukrouba , a Data Science master’s graduate from the University of Hertfordshire, holding a BSc in Computer Systems. With demonstrated skills in data modeling, data visualization, and data wrangling, I am currently seeking work experience in data science. Feel free to explore my work and reach out if you’d like to discuss potential opportunities or collaborations.
+</p>
+
 <br>
 
 <div align="center">
