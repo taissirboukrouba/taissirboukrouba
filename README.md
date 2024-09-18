@@ -13,7 +13,10 @@ Hello There ! I'm Taissir Boukrouba , a Data Science master’s graduate from th
 <div align="center">
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-message?style=for-the-badge&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/taissir-boukrouba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@taissirboukrouba"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="mailto:taissirboukrouba@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
 </div>
 
 
