@@ -4,6 +4,10 @@
 
 My name is Peyton Bechard and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
 
+- 🔭 I’m currently working on expanding my knowledge of Nautral Language Processing (NLP).
+- 🌱 I’m currently learning advanced Javascript leading into more about Node.js and then React.
+- 💬 Ask me about my experience teaching CS in China and working as a tour manager in North Korea!
+- ⚡ Fun fact: I'm also a synthesizer enthusiast and try to make at least one short track every day.
 
 
 <br>
@@ -17,10 +21,7 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 
 <br>
 
-- 🔭 I’m currently working on expanding my knowledge of full-stack web development.
-- 🌱 I’m currently learning advanced Javascript leading into more about Node.js and then React.
-- 💬 Ask me about my experience teaching CS in China and working as a tour manager in North Korea!
-- ⚡ Fun fact: I'm also a synthesizer enthusiast and try to make at least one short track every day.
+
 
 
 <br>
@@ -28,9 +29,12 @@ My name is Peyton Bechard and I am a self-taught developer with about 2 years of
 
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
