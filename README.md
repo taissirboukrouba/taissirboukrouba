@@ -41,9 +41,6 @@ Hello There ! I'm Taissir Boukrouba , a Data Science master’s graduate from th
 I have strong skills in data analysis, statistical modeling, and data visualization. My expertise includes data wrangling, machine learning, and creating actionable insights and making flutter apps. My skill set can be summarised in the following tools and libraries : 
 </p>
 
-
-<br>
-
 <br>
 
 
