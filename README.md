@@ -24,7 +24,7 @@ Hello There ! I'm Taissir Boukrouba , a MSc Data Science graduate from the Unive
 
 
 <div align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=taissirboukrouba&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" style="margin-right: 20px;" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=taissirboukrouba&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 20px;" />
   <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=taissirboukrouba&theme=blue-green&hide_border=true" />
 </div>
 
