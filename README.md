@@ -81,7 +81,7 @@ I have strong skills in data analysis, statistical modeling, and data visualizat
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taissirboukrouba&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taissirboukrouba&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 
