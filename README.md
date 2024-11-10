@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://en.bloggif.com/tmp/b380e67e79831206d27477e3c2c91a6b/text.gif?1726675760" alt="Text GIF" />
+  <img src="https://github.com/user-attachments/assets/b41b2096-c3b0-4c17-adfe-dac9a60ae7df" alt="Text GIF" />
 </p>
+
 
 <h2 align="center">Introduction</h2>
 
